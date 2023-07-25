@@ -7,7 +7,7 @@ https://alerta-cidadao-cromero19.vercel.app/
 
 # Colaboradores
 
-caiquepb
-CRomero19
-Miguel Candau de Oliveira
+caiquepb,
+CRomero19,
+Miguel Candau de Oliveira e
 Felipe Domingues
